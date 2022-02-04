@@ -13,8 +13,8 @@ library(rgbif)
 outdir <- "1_Insect_summaries/"
 if(!dir.exists(outdir)) dir.create(outdir)
 
-
-
+# help info
+# https://docs.ropensci.org/rgbif/articles/rgbif.html
 
 
 
