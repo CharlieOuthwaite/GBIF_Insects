@@ -13,3 +13,5 @@ library(rgbif)
 outdir <- "1_Insect_summaries/"
 if(!dir.exists(outdir)) dir.create(outdir)
 
+
+
