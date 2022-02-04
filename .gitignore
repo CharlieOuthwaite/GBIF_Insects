@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# R project
+GBIF_Insects.Rproj
+
+# folders
+1_Insect_summaries/
