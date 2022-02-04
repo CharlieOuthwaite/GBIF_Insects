@@ -16,5 +16,10 @@ if(!dir.exists(outdir)) dir.create(outdir)
 # help info
 # https://docs.ropensci.org/rgbif/articles/rgbif.html
 
+# R packages to look into 
+# occAssess
+# bRacatus
+# CoordinateCleaner
 
+# papers on GBIF data issues saved in Mendeley Insects>GBIF
 
